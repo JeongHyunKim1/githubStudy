@@ -13,5 +13,6 @@ public class git_one {
     int m4 = 4;
 
     int g0 = 1;
+    int g010 = 10;
 }
 
