@@ -9,4 +9,5 @@ public class git_one {
     int n400 = 400;
     int m1 = 1;
     int m2 = 2;
+    int m3 = 3;
 }
