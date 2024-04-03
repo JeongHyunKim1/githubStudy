@@ -7,4 +7,6 @@ public class git_one {
     int n200 = 200;
     int n300 = 300;
     int n400 = 400;
+
+    int b = 0;
 }
